@@ -1,0 +1,75 @@
+body {
+	background:#2f3640;
+	color:black;
+	font-family:'Arial', sans-serif;
+	font-size:15px;
+}
+h1 {
+	text-align:center;
+	color:white;
+}
+	
+body p {
+	text-align:center;
+	color:white;
+}
+#container {
+	width:80%;
+	background:#ecf0f1;
+	margin:20px auto;
+	overflow:auto;
+	padding:25px;
+}
+h2 {
+	text-align:center;
+}
+
+header{	
+	text-align:center;
+	border-bottom:#2ecc71 solid 1px;
+}
+
+header h1{
+	color:black;
+	margin:0;
+	padding:0;
+}
+section{
+	min-height:400px;
+}
+
+footer{
+	text-align:center;
+}
+footer p {
+	color:black;
+	font-size:15px;
+}
+input[type='submit']{
+	background:#3742fa;
+	border:0;
+	color:#fff;
+	padding:10px 15px;
+	cursor:pointer;
+}
+
+#results h3 {
+	background:#2ed573;
+	padding:10px;
+	margin:10px 0;
+	
+}
+
+#results span{
+	color:#000;
+	font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
